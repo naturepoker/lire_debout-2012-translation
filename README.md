@@ -9,3 +9,5 @@ Waquet F. Lire debout. Le poster comme pratique de lecture dans le monde scienti
 This paper addresses the origin of the modern academic conference poster, beginning in 1967 at the Carshalton Medical Research Center and rapidly gaining in popularity with explosion of biology researcher population through 70's and 80's. Outside tracing the history of scientific posters (which the author proposes is a media and genre unto itself), the paper also addresses popular concerns and notes in forms of references. 
 
 All in all, an interesting note for a surprisingly young academic tradition. 
+
+Write up on the paper itself is available at: https://naturepoker.wordpress.com/2023/06/29/rough-translation-the-history-of-academic-poster/
