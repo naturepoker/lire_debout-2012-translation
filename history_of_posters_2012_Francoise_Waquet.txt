@@ -1,0 +1,215 @@
+Page.9
+
+
+FRANÇOISE WAQUET
+
+Lire debout.
+Le poster comme pratique de lecture dans le monde scientifique
+
+ABSTRACT
+The scientific poster, 'displayed writing' of word and image, is for the first time addressed from the
+perspective of modes of reading as proposed by various experts, mostly of the scientific and
+technical disciplines, in original formats, which differ from those adopted for the use of most texts.
+After a historical reconstruction of the subject, the essay examines the impact of reading while
+standing on the development of a printed product with the interweaving of text and image. The
+recent emergence of digital posters determines new forms suited to reading on screen and when
+sitting.
+
+__________________________________
+
+Les tableaux de la Renaissance représentant saint Jérôme à sa table de travail ont fixé un certain canon du savant en train de lire: il est assis et se tient parfaitement bien.(#1) Des gravures tout au long de l’époque moderne, puis des photos offrent une même représentation publique et officielle de la lecture savante. Des textes référant, eux, à la sphère privée donnent à voir d’autres pratiques de lecture. Le juriste Cujas «étudiait le ventre contre terre couché sur un tapis, ses livres autour de lui».(#2) L’exégète Richard Simon travaillait «ordinairement couché sur un tapis fort épais avec quelques coussins. Il avait par terre auprès de lui une écritoire, du papier et les livres qu’il voulait consulter».(#3) L’érudit de Bari Giacinto Gimma avait aménagé son lit en bureau-bibliothèque.(#4)
+
+#####
+
+#1 DANIEL RUSSO, Saint Jérôme en Italie. Étude d’iconographie et de spiritualité, XIIIe-XVe siècle, Paris, La Découverte; Rome, École française de Rome, 1987, chap. VIII: Le saint dans son étude.
+#2 Scaligerana ou bons mots, rencontres agréables et remarques judicieuses et sçavantes de J. Scaliger… Nouvelle édition, À Cologne, s.e., 1695, p. 115.
+#3 RICHARD SIMON, Lettres choisies…, par M. Bruzen de La Martinière, Amsterdam, chez Pierre Mortier, 1730, t. I, p. 100 (de l’Éloge de Richard Simon).
+#4 DOMENICO MAURODINOJA, Breve ristretto della vita dell’Abate sig. D. Giacinto Gimma, «Raccolta d’opuscoli scientifici e filologici», XVII, 1738, p. 370: «Avea […] nella sua stanza […] un angusto letticciuolo con una sua particolare industria formato: di maniera che quivi la notte avea quanto gli facea di mestiere per comporre: avendovi dentro una picciola libreria, in cui vi erano tutti i libri i più manuali, e necessari, e da un canto come un tavolino fatto con tale artifizio, che tirandoselo avanti senza levarsi di letto, e punto scomodarsi poteva a suo piacimento scrivere, e studiare…».
+
+
+Page.10
+
+
+Les chercheurs lisent assis, allongés; ils lisent aussi debout. On pensera à ce type de lecture assez usuel que nous pratiquons en bibliothèque entre deux travées, prenant le livre sur le rayonnage et parcourant quelques passages pour savoir s’il vaut la peine d’une lecture plus approfondie: lecture cursive, souvent inconfortable et pourtant fondamentale car opérant un tri qui peut être lourd de conséquences. Tous ces exemples réfèrent à la lecture de livres. Or, il est dans le monde du savoir d’autres documents qui impliquent une autre attitude de lecture, comme regarder et déchiffrer un document de nature graphique placé à distance: des inscriptions et des figures tracées au tableau, une carte géographique suspendue au mur ou encore, dans un colloque, un poster. Avec ce dernier exemple, on aborde un type de lecture savante qui n’a guère retenu l’attention des historiens: lire debout.(#5) 
+
+Le poster constitue un cas de figure d’autant plus intéressant que la discipline de lecture qu’implique ce «type d’écriture exposée»(#6) n’est pas sans informer le produit lui-même. Pour le moins, il existe une production abondante de textes pratiques indiquant comment faire un bon poster, c’est-à-dire un poster qui présente de la façon la plus claire et la plus convaincante les résultats d’une recherche à d’autres chercheurs qui les liront non assis tranquillement dans le calme de leur bureau mais debout dans la hâte, la foule et le bruit. Étudier le poster comme une pratique de lecture debout ouvre aussi sur les agendas de l’anthropologie culturelle en analysant l’incidence d’une technique particulière du corps.(#7) 
+
+Afin de saisir pleinement les enjeux à l’œuvre, je commencerai par un bref historique du poster; 
+
+#####
+
+#5 Comme me l’a confirmé Roger Chartier, que je remercie.
+#6 Ce concept est dû à Armando Petrucci (Jeux de lettres. Formes et usages de l’inscription en Italie, 11e-20e siècles, Paris, Éditions de l’École des hautes études en sciences sociales, 1993). «Par écriture exposée, on entend n’importe quel type d’écriture conçu pour être utilisé dans des espaces ouverts, voire dans des espaces fermés, de façon à permettre la lecture à plusieurs (de groupe ou de masse) et à distance d’un texte écrit sur une surface exposée; la condition nécessaire pour qu’il puisse être saisi est que l’écriture exposée soit de taille suffisante et qu’elle présente d’une manière suffisamment évidente et claire le message (des mots et/ou des images) dont elle est porteuse» (p. 10). Alors que Petrucci s’intéresse d’abord à la disposition des écritures, à la présentation et à la mise en valeur des messages, ici, avec le cas du poster, l’analyse porte sur des conditions de lecture et la mise en forme d’un produit ainsi que sur leur interactions.
+#7 Ici la référence est au célèbre article de Marcel Mauss, Les techniques du corps, paru dans le «Journal de psychologie» en 1936 et réimprimé dans ID., Sociologie et anthropologie, Paris, PUF, 19893, p. 363-86.
+
+
+Page.11
+
+
+il montrera comment ce mode de présentation s’est imposé dans les colloques scientifiques et comment il est devenu, à l’instar de l’article, un véritable genre. (#8) 
+
+Le poster est une affiche aujourd’hui imprimée, faite de texte et d’images (photos, graphiques, diagrammes, etc.) qui présente les résultats d’une recherche. Lors d’un colloque, les posters groupés, le plus souvent de façon thématique, sont exposés à l’avance dans des salles, des halls, des couloirs, etc.; ils sont alors placés sur des panneaux. Les chercheurs peuvent ainsi les voir, commencer à en discuter avec leur auteur (ou leurs auteurs) ou avec un collègue, avant d’aller à la présentation publique qui en est faite par leur auteur (ou un de leurs auteurs) lors de la session poster. La discussion entre l’auteur et les personnes intéressées ainsi qu’entre les personnes intéressées elles-mêmes peut se prolonger au terme de la session. Cette description très générale sera précisée au fur et à mesure; elle donne déjà une idée de l’économie d’un format qui croise communication visuelle et communication orale, formelle et informelle.
+
+Éléments d’histoire
+L’histoire du poster est celle d’un succès ample et rapide dans la communication scientifique. Les «premiers» posters ou des produits fort proches furent présentés dès 1967 pour le moins au Medical Research Center (Carshalton), institut majeur de la recherche britannique. C’étaient des «feuilles préparées» (prepared cards) sur lesquelles des chercheurs regroupaient des résultats, surtout des graphiques et des tableaux – en fait, le matériel qui était usuellement montré par des diapositives; les feuilles étaient placées sur des panneaux et les auteurs se tenaient à leurs côtés pour une discussion. Ce type de présentation, né dans le domaine de la biochimie, gagna toute la discipline, puis dans les années 1975 et suivantes, fut introduit dans les congrès internationaux et nationaux de toutes les sciences de la vie et de la matière.9 Une fois adoptés, les posters ne furent presque jamais remis en question; ils ont largement remplacé les communications orales. Il en est résulté un nouveau schéma de congrès (international) qui est, très généralement, le suivant:
+
+#####
+
+#8 Les développements qui suivent sur l’histoire du poster et sa transformation en un genre du savoir sont tirés de l’article de FRANÇOISE WAQUET, Poster et session-poster. Un genre multimédia dans la communication du savoir, in EAD., Respublica academica. Rituels universitaires et genres du savoir (XVII-XXIe siècles), Paris, PUPS, 2010, p. 197-232, auquel je renvoie pour la bibliographie. Je m’en tiens dans cet article aux seuls congrès; les posters sont aussi utilisés dans l’enseignement supérieur tant par des professeurs, par exemple, pour faire un séminaire ou présenter des sujets de thèse à des étudiants, que par des étudiants pour exposer un travail.
+#9 Pour autant, le monde scientifique dans son entier n’est pas passé au poster. D’une part, des secteurs dans les sciences dures ne s’y prêtaient pas ou s’y prêtaient moins: c’est le cas des travaux théoriques. D’autre part, son introduction dans les sciences humaines et sociales a été tardive et limitée, et les posters y fonctionnent souvent à l’instar de communications: l’auteur fait son exposé traditionnel devant une affiche sur laquelle il a placé les éléments graphiques et iconographiques de sa recherche.
+
+
+Page.12
+
+
+un tout petit nombre de conférences plénières (keynote lectures), des présentations orales (communications invitées et proposées) et une masse de posters. Ainsi, au 20 congrès de l’International Union of Biochemistry and Molecular Biology (Kyoto, 2006) qui réunit 9000 inscrits, il y eut 11 conférences plénières, et sur les 5000 communications acceptées, 4000 le furent sous la forme de posters. Mutatis mutandis, ce schéma vaut pour bien des colloques scientifiques de moindre importance numérique. 
+
+Le succès du poster dans le monde scientifique s’explique aisément: le nouveau format répondait tout à la fois aux attentes des organisateurs de congrès, des auteurs de communications et des participants. À partir des années 1960, les rencontres scientifiques durent faire face à une augmentation considérable du nombre des communications liée à la forte croissance de la population scientifique. Un exemple donnera une idée de l’ampleur du problème auquel les organisateurs étaient confrontés: en 1963, lors de la réunion annuelle de la FASEB, fédération américaine des sociétés de biologie, 3138 communications furent présentées. Alors qu’il n’était pas possible pour des raisons économiques et matérielles d’augmenter la durée des colloques ni de louer des locaux supplémentaires, les organisateurs s’efforcèrent de contenir la masse croissante des communications en les sélectionnant, en réduisant le temps de parole octroyé à chacun (à 10, voire 5 minutes au lieu des 15 habituelles), ou encore en multipliant les sessions parallèles. Ces solutions non seulement n’emportèrent pas l’adhésion des participants, mais elles ne réglèrent pas le problème. À la différence des posters. Les organisateurs pouvaient placer dans une même salle et un même créneau horaire bien plus de posters que de communications, jusqu’à dix fois plus, a-t-on estimé. Rien d’étonnant que les sociétés scientifiques aient promu le nouveau format auprès de leurs membres, comme il ressort d’articles de revues et de newsletters, ainsi que d’appels à communications des années 1975-1985.
+
+Les communicants et l’auditoire n’étaient pas non plus satisfaits de la forme usuelle de présentation: la communication avec diapositives. Le temps dévolu à chacun était limité; il était en moyenne de 15 minutes (1012 pour la présentation et 3-5 pour la discussion), mais parfois moindre. Il était encore réduit à cause d’incidents qui ne manquaient pas de survenir dans la projection des diapositives. L’auditoire avait à supporter de longues suites d’exposés, parfois prononcés à la hâte et rendus peu intelligibles par des accents étrangers dans une science qui se disait déjà largement en anglais. Il recevait une masse considérable de données originales – les exposés de 10-12 minutes étaient hautement concentrés – sans avoir la possibilité d’en assimiler toute la substance ni a fortiori de faire la moindre vérification; quant aux diapositives qui accompagnaient l’exposé, elles n’étaient pas toujours de la meilleure qualité. La discussion durait souvent moins des 3-5 minutes prévues à cause du retard qui avait été pris et elle ne donnait lieu qu’à une ou deux questions qui débouchaient rarement sur un véritable échange.
+
+
+Page.13
+
+
+Quand une discussion finale était programmée, elle n’était pas toujours très fructueuse. Elle était parfois abrégée pour la raison qui a été précédemment indiquée; dans les grandes salles, elle n’était pas audible pour une partie du public; certains quittaient la séance avant la fin par lassitude ou pour aller ailleurs. Enfin, le nombre croissant des sessions parallèles était une source supplémentaire d’insatisfaction.
+
+Bien de ces défauts pouvaient être corrigés et les organisateurs s’employèrent à améliorer le format traditionnel. Mais les posters l’emportaient sur ce qui était au centre des doléances: l’échange scientifique. De l’avis général, la fonction des colloques n’était pas seulement la présentation publique de résultats mais aussi et surtout l’échange personnel d’informations. Dès les premiers temps, la supériorité des posters fut sur ce point manifeste. Ils ne permettaient pas seulement davantage d’échanges, mais encore de meilleurs échanges. Les posters étaient affichés pendant un certain temps. Les participants pouvaient aller voir ceux que la lecture du volume d’abstracts leur avait suggérés ou bien qui, chemin faisant, avaient attiré leur attention. Ils pouvaient juger rapidement de leur intérêt. Ils avaient davantage d’information pour se former une opinion: en effet, ce qu’ils voyaient sur le panneau, ce n’était plus, comme dans la communication traditionnelle, la présentation linéaire d’une recherche accompagnée d’un défilé de diapositives mais toute la recherche à la fois. Enfin, ils n’avaient pas à supporter une kyrielle d’exposés en attendant celui qui les intéressait. Les auteurs étaient aussi plus détendus: ils n’étaient plus pressés par le temps et ils avaient devant eux des auditoires moins impressionnants que de vastes assemblées anonymes. Se tenant près de leurs posters, ils pouvaient présenter toute leur recherche ou un seul aspect, et adapter leur présentation et leurs explications à leur public. Ce public, il est vrai, était limité, parfois même très réduit, mais il était composé de personnes intéressées. L’auteur et le public pouvaient encore discuter hors séance autant qu’ils le voulaient devant le document lui-même; il était aisé de poser des questions, tant sur le sujet de la recherche que sur des points particuliers. L’auteur pouvait ainsi obtenir davantage de retour et les participants plus de profit de leurs échanges avec l’auteur. Par ailleurs, des participants se trouvant devant un poster engageaient une discussion que l’auteur soit présent ou non. Toutes ces discussions interpersonnelles étaient aussi une façon de lier connaissance, de nouer des relations qui donneraient lieu à d’autres échanges, voire à des collaborations.
+
+Ces avantages multiples expliquent le succès des posters. Ils contrebalançaient largement les quelques défauts et inconvénients qu’avait ce nouveau format, d’autant que ceux-ci se sont réduits avec le temps, quand les posters sont entrés dans les habitudes et quand de nouvelles techniques de reproduction ont permis d’imprimer des affiches de façon économique et esthétique.
+
+
+Page.14
+
+
+Le seul «stigmate» qui est demeuré est leur statut dans la communication scientifique. Le poster fut d’emblée jugé comme moins prestigieux qu’une présentation à la tribune dans une vaste salle. Les sessions poster tendirent à être largement composées de doctorants, de post-doctorants, de chercheurs en début de carrière ou présentant une recherche marginale. Même si l’opinion a évolué, les posters sont au point bas d’une architecture du prestige qui a, à son sommet, la conférence inaugurale (keynote lecture). Une division hiérarchique demeure entre posters et communications orales; elle est plus ou moins effective suivant les disciplines et la nature des réunions.
+
+Un genre du savoir
+Alors que les posters devenaient partie intégrante des colloques, la question se posa vite non plus de leur présence mais de leur qualité. Bien des efforts ont été faits pour améliorer les posters et organiser la session poster de la meilleure façon qui soit. Ils ont abouti à créer un genre dans la communication scientifique, un genre plus sophistiqué qu’il n’y paraît: il constitue, en effet, une forme originale de culture multimédia conjuguant écrit, image, parole.
+
+Les «premiers» posters ne contenaient pas de texte (mis à part des légendes) mais seulement des données chiffrées, des graphiques, des tableaux, des figures, des photos. Du texte n’était pas nécessaire alors que le public circulait parmi les panneaux et posait des questions aux auteurs qui se tenaient à côté de leur présentation. Cependant, de l’écrit est apparu très tôt: ainsi, des photos de posters illustrant les comptes rendus de meetings de la FASEB des années 1974-1977, montrent déjà quelques lignes de texte, des légendes développées, peut-être le résumé.(#10) En fait, l’organisation des sessions poster rendit le texte nécessaire. Les posters devaient être parfaitement intelligibles alors qu’ils étaient exposés pendant plusieurs heures, mais que leur auteur n’était présent qu’une petite partie du temps. Le texte entra donc dans le poster, mais avec un tel succès que le problème se posa alors de le contenir dans de justes limites. Son abondance, voire sa surabondance devint un défaut majeur qui n’a d’ailleurs pas disparu.
+
+Les posters restèrent un temps des produits modestes, ce qui, au passage, rend remarquables leur succès initial et l’enthousiasme qu’ils suscitèrent. C’étaient des feuilles de papier (manuscrites ou dactylographiées), des photos, des représentations graphiques plus ou moins artistiquement disposées sur un panneau, directement ou indirectement en intercalant une grande feuille de carton servant de fond. Avec le temps, le poster initialement fait de pièces et de morceaux a évolué vers une affiche de grand format sur laquelle texte et images sont imprimés. Ce produit fut, d’abord, l’apanage de laboratoires riches; 
+
+#####
+
+#10 «Federation Proceedings», XXXIII, 1974, n. 10, p. 2095; XXXIV, 1975, n. 10, p. 1908; XXXV, 1976, n. 9, p. 1955; XXXVI, 1977, n. 8, p. 2063-4.
+
+
+Page.15
+
+
+la diffusion et la baisse du coût des techniques de reproduction l’ont démocratisé. Le poster papier est majoritairement aujourd’hui une affiche imprimée en couleurs, et il en est qui sont de véritables chefs-d’œuvre graphiques. Ce qui ne veut pas dire que des produits médiocres ont totalement disparu.(#11)
+
+Le poster s’est construit sur la base de la pratique. Dans les premiers temps, alors que le genre se mettait en place, des sociétés scientifiques ont donné dans leurs journaux et newsletters des explications et des instructions, et les organisateurs des colloques ont précisé dans les appels à communications ce qu’était un poster, ce qu’il devait être. Ces informations reposaient le plus souvent sur ce qui avait été vu et qui semblait digne d’être recommandé. Très vite, une littérature spécifique s’est mise en place, principalement due à des personnes qui avaient présenté des posters et qui formalisaient leur expérience: ce sont des ouvrages et des articles donnant des indications, des conseils, des trucs et, bien sûr, signalant, sur la base d’exemples, les erreurs à ne pas commettre.(#12) Jouèrent aussi l’imitation et la transmission orale: bien des chercheurs firent des posters, surtout dans les débuts, sur la base de ce que des «pionniers» avaient fait, reproduisant des «modèles», reprenant un aspect qui avait plu, en éliminant un autre qui semblait moins réussi; par ailleurs, des chercheurs qui avaient vu ou fait un poster expliquèrent à des collègues comment procéder. Par la suite, des départements scientifiques ou pédagogiques des universités ont aussi organisé des formations sur l’art et la manière de confectionner et de présenter un poster. Aujourd’hui encore, alors que le genre va de soi, imitation et transmission personnelle conservent un rôle dans la confection des posters, tout simplement parce que dans les laboratoires les aînés initient les cadets.
+
+Une lecture/un document
+La composition et la présentation matérielle du poster doivent répondre à quelques principes de base, sans cesse répétés. Le poster doit se suffire à lui-même, c’est-à-dire qu’il doit, par lui seul, transmettre un message clair. Le public qu’il vise n’est pas tant le petit nombre de collègues travaillant sur le même sujet – ils viendront de toutes façons – que des chercheurs relevant d’autres sous-spécialités du même domaine. Ce public peut aussi inclure des chercheurs qui, appartenant à un domaine différent,
+
+#####
+
+#11 La littérature prescriptive offre, dans une sorte de pédagogie par l’erreur, un panorama de tous les travers qui se rencontrent ; voir, par exemple, PETER J. GOSLING, Scientist’s Guide to Poster Presentations, New York, Kluwer Academic, 1999, chap. 15: Common Poster Design Blunders (avec des photos).
+#12 Cette production est aussi nombreuse que répétitive; elle est majoritairement en langue anglaise tant parce que la science se dit en anglais que parce que c’est aux ÉtatsUnis que le genre ‘inventé’ en Europe a connu son véritable démarrage. Dans cet article, les références sont données à des textes qui ont paru importants, soit parce qu’ils sont souvent cités, soit parce qu’ils sont représentatifs.
+
+
+Page.16
+
+
+sont susceptibles d’être attirés par un aspect de la recherche présentée pour autant que le poster soit bien composé et qu’il puisse être vu rapidement.(#13) Le poster est un médium qui sert un message scientifique; un poster trop artistique n’est pas un substitut pour une recherche médiocre, et il peut même être contre-productif.(#14) Le poster n’est pas une fin en soi; il présente les résultats d’une recherche afin de susciter une discussion: écrit, graphique, oralité ont partie liée.
+
+Ces principes sont à rapporter à un type de lecture particulier : la lecture de debout, une lecture qui, déjà fatigante d’un point de vue physique, se conjugue avec l’opération intellectuelle tout aussi exigeante de la saisie de contenus scientifiques originaux. Précisons d’emblée que sans atteindre les chiffres faramineux du colloque de Kyoto que j’ai précédemment mentionné, les colloques scientifiques internationaux réunissent facilement des centaines d’inscrits et que les posters se comptent par dizaines, voire par centaines. Lire les posters est une toute autre pratique que lire un document, confortablement assis dans le calme, avec tout le temps à sa disposition et la possibilité d’arrêter et de reprendre la lecture.
+
+C’est d’abord parcourir des documents nombreux en un temps limité. Les posters ne sont visibles que pendant une journée, une demijournée, quelques heures, rarement pendant toute la durée du colloque. Il faut alors les lire ou plutôt les «scanner» rapidement pour faire un premier tri et discerner ceux qui méritent d’être vus de façon plus approfondie. Il a été établi qu’«un lecteur typique s’approche d’un poster, s’arrête, lit, comprend et poursuit – tout cela en 90 secondes, voire moins».(#15) Voir les posters, c’est marcher beaucoup et, quand on ne marche pas, piétiner sur place. Après bien du temps passé à marcher et à rester debout, la fatigue joue; et elle joue d’autant plus que les salles d’exposition des posters sont souvent bondées et bruyantes. Enfin, l’attention est très sollicitée: les auteurs rivalisent pour l’attirer des «visiteurs» – le public des posters n’est pas captif, à la différence de celui des sessions traditionnelles – non seulement pour faire connaître sa recherche mais encore mais encore pour engager une discussion avec des personnes intéressées qui lui apporteront leur feedback ainsi que pour les amener à venir à la présentation publique du travail lors de la session poster.
+
+Ces conditions de lecture ne sont pas sans jouer dans la présentation de l’information sur l’affiche.
+
+#####
+
+#13 Sur le public des posters, voir JOHN D. WOOLSEY, Combating Poster Fatigue. How to Use Visual Grammar and Analysis to Effect Better Visual Communication, «Trends in Neurosciences. Reference Edition», XII, 1989, n. 9, p. 325.
+#14 C’est là une affirmation fréquemment répétée et de plus en plus alors que les moyens de reproduction assistée par l’ordinateur permettent à tous de livrer des produits hautement sophistiqués.
+#15 MAEVE O’CONNOR, Writing Successfully in Science, London, Harper Collins Academic, 1991, p. 166.
+
+
+Page.17
+
+
+Un format visuel s’est rapidement imposé: un bandeau comprenant le titre du poster et les noms des auteurs avec leur affiliation surmonte des blocs de textes et d’illustrations présentés en colonnes verticales.(#16) Une disposition verticale est préférable à une disposition horizontale courant sur tout le panneau, qui ferait que les spectateurs se heurteraient en suivant de longues lignes quand ils ne perdraient pas le fil du texte.
+
+Le contenu doit être présenté suivant un ordre clair, logique et facile à suivre. Celui-ci tendit à adopter un format existant, c’est-à-dire familier aux chercheurs et, pour cela même, aisé à parcourir de façon rapide. Partout dans le monde, les scientifiques écrivent leurs thèses d’abord, leurs articles ensuite selon un plan codifié qui se compose des sections suivantes: introduction, matériel et méthodes, résultats et discussion, d’où l’acronyme IMRED (en anglais IMRAD). Ce format fonctionne aussi comme un système de recherche qui permet au lecteur de retrouver l’information qui l’intéresse rapidement et sûrement, sans avoir besoin de tout lire.(#17) Il est difficile de dire quand précisément ce format fut introduit dans les posters, très probablement dans les années 1980. On peut d’ailleurs penser que l’habitude de composer suivant ce schéma l’imposa naturellement. Un guide datant de 1991 indiquait que le format du poster est celui de l’article: il doit comprendre «une brève introduction, un aperçu des matériaux et des méthodes utilisées, une section principale consacrée aux résultats, et vos conclusions».(#18) Par la suite, ce format est invariablement prescrit dans la littérature pratique: «La composition d’un poster doit suivre la convention (IMRED) Introduction, Méthodes, Résultats et Discussion qui est utilisée pour d’autres écrits scientifiques».(#19)
+
+La conséquence fut que les posters tendirent à devenir des articles miniature affichés – leurs auteurs pensant souvent qu’une masse de texte était une garantie de sérieux sans compter leur désir de tout mettre jusqu’au plus infime détail. Les guides et autres documents prescriptifs se sont élevés contre cette dérive. Ils ont montré que, contrairement à ce que des auteurs pensaient, une masse de texte n’était point nécessaire pour dire la qualité d’une recherche, et que de tels pavés repoussaient en quelque sorte le lecteur;
+
+#####
+
+#16 Ce format avait été expressément indiqué, schéma à l’appui, dans les instructions données par la FASEB dès 1974 pour les colloques organisés par les sociétés scientifiques de cette fédération (Advice and Instructions Regarding Poster Presentations, «Federation Proceedings», XXXIII, 1974, n. 10, p. 2088).
+#17 ALAN G. GROSS, JOSEPH E. HARMON, MICHAEL S. REIDY, Communicating Science. The Scientific Article from the 17th Century to the Present, Oxford, Oxford University Press, 2002, chap. 8.
+#18 M. O’CONNOR, Writing, cit., p. 164.
+#19 MARTA DAVIS, Scientific Papers and Presentations, San Diego, Academic Press, 1997, p. 177 (citation); ANN M. COULSTON, MICKIE STIVERS, A Poster Worth Thousand Words. How to Design Effective Poster Session Displays, «Journal of The American Dietetic Association», XCIII, 1993, n.8, p. 865-6; MARY HELEN BRISCOE, Preparing Scientific Illustrations. A Guide to Better Posters, Presentations and Publications, New York, Springer, 1996, p. 135; STEVEN M. BLOCK, Do’s and Don’ts of Poster Presentation, «Biophysical Journal», LXXI, 1996, n. 6, p. 3528-9.
+
+
+Page.18
+
+
+quant aux détails, ils distrayaient l’attention et empêchaient d’aller à l’essentiel. Plus positivement, ils ont expliqué comment adapter le format IMRED au poster: mettre l’accent sur l’introduction et la conclusion; abréger la section matériel et méthodes; omettre les détails – ils seront fournis durant la discussion à la session poster ou donnés dans un document (handout) placé sur une table près du poster ou attaché au panneau; ce document peut contenir aussi des indications bibliographiques. Une telle présentation correspond à l’acte de lecture qu’implique le poster: d’une part, alors que le poster doit être «scanné» en un temps très bref, l’introduction et la conclusion sont les deux éléments essentiels pour décider d’une lecture plus approfondie; d’autre part, le public debout, ne peut pas parcourir rapidement des textes pleins de détails ni mémoriser des références bibliographiques. Cette présentation est aussi dictée par la fonction du poster qui ne livre pas une recherche en son entier, mais qui en présente l’essentiel de façon à créer une discussion.(#20)
+
+Un poster doit être équilibré entre texte et images (photos, graphiques, diagrammes, etc.); il contient donc proportionnellement plus d’images qu’un article scientifique. Les images servent le processus de la communication scientifique suivant le principe: «une image vaut 1000 mots».(#21) Elles appuient, mettent en valeur et soulignent l’objet de la recherche; elles clarifient, simplifient et résument les données; elles fournissent de l’information contextuelle et ont une fonction mnémonique.(#22) La place et le rôle des images ont été amplifiés tout au long du 20e siècle dans l’article scientifique.(#23) Toutefois, les illustrations d’un poster ne doivent pas être celles qui sont publiées dans un article ni donc reproduire telles quelles des images déjà publiées dans un document imprimé. Elles doivent être plus simples et illustrer un seul point de façon concise. Ce conseil a pris encore plus d’importance alors que les programmes d’ordinateur ont permis non seulement de créer facilement des images mais encore d’obtenir aisément des représentations graphiques hautement sophistiquées. Dans un ordre d’idées analogue, les auteurs doivent aussi éviter de mettre dans leurs posters des tableaux comportant de nombreuses lignes et colonnes; ce qui est un excellent mode de présenter des données dans un article imprimé ne l’est pas pour un lecteur qui lit debout.(#24)
+
+#####
+
+#20 Voir pour les années 1990: A. M. COULSTON, M. STIVERS, A Poster, cit., p. 865-6; M. H. BRISCOE, Preparing, cit., p. 135; S. M. BLOCK, Do’s and Don’ts, cit., p. 3528-9; M. DAVIS, Scientific Papers, cit., p. 176-7.
+#21 AUGUST EPPLE, Organizing Scientific Meetings, Cambridge, Cambridge University Press, 1997, p. 149.
+#22 Voir, entre autres, M. H. BRISCOE, Preparing, cit., p. 5-6.
+#23 A. GROSS, J. E. HARMON, M. REIDY, Communicating Science, cit., p. 200-7 et 231.
+#24 La question est bien résumée dans ROBERT H. ANHOLT, Dazzle’ em with Style. The Art of Oral Scientific Presentation, New York, W. H. Freeman and Company, 1994, p. 95-7.
+
+
+Page.19
+
+
+Fait de texte et d’images, le poster est «une présentation visuelle»: il obéit à «un savoir visuel» ou à «une grammaire visuelle».(#25) La littérature pratique donne des techniques et des astuces empruntées à la communication visuelle, tout particulièrement à la visualisation à distance. Deux principes de base, valables tant pour le texte que pour les images, reviennent sans cesse: less is more et the bigger the better. D’où des recommandations visant à éviter deux travers fréquents: le poster est surchargé; il est difficilement lisible. Elles portent notamment sur la juste proportion de blancs à laisser, comme une sorte de «respiration», entre les blocs d’images et de textes, sur le choix des caractères (taille, style, police), sur les couleurs et leurs effets, en évitant ici un défaut que la diffusion des nouvelles techniques a favorisé: le bariolage; on conseille aussi de placer le gros de l’information dans la zone que l’œil peut balayer aisément et d’éviter de placer du texte en partie basse de l’affiche.
+
+En tant que produit visuel, le poster demande aussi une écriture différente de celle de l’article. Le texte, réduit au minimum indispensable, sera présenté en énoncés distincts; la prose sera claire, concise et dépourvue de tout jargon, le style direct; les paragraphes seront courts, les phrases brèves; des mots-clefs ou bien des puces (bullets) et des numéros seront utilisés pour mettre en évidence des points importants. Toutes ces instructions – et on ne peut pas les suivre dans l’infinité des détails – ont pour but d’assurer une parfaite lecture du message et d’abord, répétons-le, sa lisibilité. Un poster encombré, confus et qui se lit mal n’incite pas le «visiteur» à s’arrêter, à aller à la présentation publique lors de la session poster ni à entrer en discussion avec l’auteur.
+
+Retour à la lecture assise?
+Le poster est majoritairement aujourd’hui une affiche papier. Toutefois, au début des années 2000, une nouvelle forme de poster est apparue: le poster électronique qui se consulte sur un écran. Il est moins coûteux en temps et en argent (les données sont entrées dans un format électronique pré-établi) et il évite les problèmes liés au transport et à la mise en place; il peut offrir d’autres formes d’information (audiovisuelles et images en trois dimensions) et il permet l’interactivité. Ce nouveau produit est apparu dans le mode médical où l’imagerie a connu un développement fulgurant. Je m’en tiendrai à l’exemple représenté par la Radiological Society of North America [RSNA] qui expérimenta des posters numériques (digital posters) lors de son meeting annuel de 2004.(#26)
+
+#####
+
+#25 Voir, par exemple, sur ce point J. D. WOOLSEY, Combating, cit., p. 325-32.
+#26 Les réunions annuelles de la RSNA sont des manifestations d’une importance majeure dans la discipline de la radiologie; elles attirent des milliers de participants du monde entier: ainsi, en 2004, il y eut plus de 60000 inscrits dont 26000 professionnels (chercheurs, praticiens, etc.). On se reportera au site web de cette société (www.rsna.org) en allant à la rubrique «Annual Meeting» où l’on trouve les archives des réunions passées ainsi que le Daily Bulletin publié chaque jour pendant toute la durée de chaque annual meeting. Je remercie le Dr Olivier Granat d’avoir attiré mon attention sur le poster numérique et sur l’initiative prise par la RSNA en la matière.
+
+
+Page.20
+
+
+Cette initiative suscita des débats. Les uns dénoncèrent une perte de contact personnel et le risque d’aboutir à un colloque virtuel. Les autres soulignèrent la plus grande flexibilité et créativité du poster numérique, la réduction des coûts (en temps et en argent) impliqués par la confection d’un poster, et aussi une consultation moins fatigante.(#27) Ils l’emportèrent. Au meeting de 2007, la plupart des 607 posters étaient numériques, et il y avait un millier d’écrans pour les consulter. D’autres sociétés scientifiques du monde médical ont adopté ce type de poster, parfois en maintenant en parallèle l’affichage des posters papier, mais toujours en favorisant les possibilités de contact personnel par l’organisation de sessions de discussion ou la mise en place de services de messagerie.
+
+Le poster numérique se consulte assis. Pour reprendre l’exemple de la RSNA, des photos sur le Daily Bulletin du meeting montrent des centaines d’écran devant lesquels sont placées des chaises, généralement deux, pour la personne qui le consulte et pour un interlocuteur – l’auteur du poster ou un collègue. Ce mode de consultation a été considéré comme un avantage notable dans la comparaison avec les posters traditionnels. Les participants n’ont plus à rester debout pendant des heures, à marcher dans des halls d’exposition immenses où déambule une foule nombreuse. L’aire de consultation des posters électroniques, si elle est vaste – n’oublions pas qu’elle abrite un millier d’écrans –, est beaucoup plus calme ne serait-ce que parce qu’il y a beaucoup moins de mouvement : les «visiteurs» s’assoient devant un écran, entrent leur mot de passe et peuvent consulter tous les posters qui les intéressent. Il en résulte, comme le nota une enquête de satisfaction, «un environnent intellectuel plus confortable et moins fatigant, tranchant sur le bruit et les distractions de l’aire d’affichage des posters papier».(#28)
+
+Le poster numérique ne se lit pas seulement assis, il se lit sur écran. Le lecteur se tient désormais à une distance rapprochée (environ 50 cm) et il ne voit plus tout le poster d’un seul coup d’œil puisque que celui est composé de diverses pages web qui défilent verticalement. Une réflexion sur ce nouveau produit a été amorcée lorsque l’on a décidé de placer des posters papier sur Internet pour maximiser leur diffusion: le changement de support rendait nécessaire une adaptation. Les indications qui en ressortent valent aussi pour des posters qui n’ont d’autre existence que numérique. Si les principes généraux de simplicité, de cohérence, de lisibilité dérivés de la communication visuelle demeurent, des modifications sont nécessaires à la mesure des différences que la nouvelle technologie entraîne.
+
+#####
+
+#27 KERRY M. LINK, Electronic Education Exhibits and Scientific Posters. A Brief Review and Evolving Feature of the Annual Meeting, «RadioGraphics», XXVI, 2006, p. 1263-5.
+#28 Ibid., p. 1265.
+
+
+Page.21
+
+
+Le poster n’est plus vu dans son entier mais dans le défilé des pages web qui désormais le composent: l’ordre de la présentation doit être explicitement indiqué dans une page présentant les divers éléments et leur relation ou dans une carte de navigation; un rappel du titre général peut s’imposer en tête de chacune des pages web. Le choix des polices de caractères doit être déterminé fonction de la lisibilité sur écran qui n’est pas la même que sur un imprimé papier. L’utilisation des couleurs sera limitée (pas plus de quatre, noir et blanc inclus) et l’on évitera des combinaisons qui, passant mal sur écran, sont source de confusion. L’emploi des caractères et des couleurs sera uniforme afin de maintenir la cohérence visuelle d’un document que l’on ne voit plus que par pages. Enfin, si des images et des graphiques sont réduits pour être adaptés à la taille moyenne d’un écran, on veillera à ce qu’ils demeurent parfaitement lisibles.(#29)
+
+Les posters numériques sont encore la minorité. Il n’est pas interdit de penser qu’avec les développements des technologies électroniques, ils acquièrent une part plus importante. Le chercheur retrouvera alors la position traditionnelle à la table de travail: il lira à nouveau assis. Toutefois, le poster papier règne aujourd’hui très largement. Si les produits ne sont pas toujours à la hauteur des instructions, recommandations et autres conseils, la moyenne a largement progressé, servant de façon satisfaisante les exigences du monde scientifique.
+
+Cette adéquation d’un produit à un type de lecture ressort parfaitement bien de la comparaison que l’on peut faire lors de la visite d’expositions artistiques. Outre les tableaux, les photos, les objets à voir, il y a des textes à lire, à lire debout, et de plus, vu le succès de public des expositions, dans la foule et le bruit. Or, les textes d’introduction à l’exposition et à ses différentes sessions sont souvent longs et denses, et ils ne sont pas toujours écrits dans une langue simple. La disposition de ces «écritures exposées» ne sert pas aussi bien qu’elle le devrait leur lecture, en particulier quand elle commence à une hauteur vertigineuse et finit assez bas. Le choix des couleurs pour les caractères ne facilite pas la lisibilité et «l’encre» brillante dans laquelle parfois on les trace oblige le lecteur à se placer de côté pour neutraliser un reflet qui gêne sa lecture. Le cartel propre à chaque œuvre est souvent minimaliste dans le texte aussi bien que dans les caractères et il se trouve volontiers apposé non à la hauteur des yeux mais fort bas. De sorte que bien des visiteurs font de drôles de gymnastiques, regardant l’œuvre, puis s’approchant et se courbant pour déchiffrer le cartel, enfin se reculant pour regarder l’œuvre dont ils savent désormais l’auteur et le titre.
+
+#####
+
+#29 Les différences entre produit papier et produit électronique ainsi que les modifications que le passage d’une modalité à l’autre implique sont bien explicitées dans des Guidelines for Preparation of Online Poster Presentations, document publié dans le cadre de l’Environmental Management Science Program Workshop de l’U. S. Department of Energy <http://www.osti.gov/em52/worksop/em52-gl.html>, dernière cons.: 03/02/2012.
+
+
+Page.22
+
+
+Avec ces remarques, on ne mesure que mieux avec les posters que l’on voit aujourd’hui ce que furent dans la sphère scientifique non seulement la création d’un format de communication visuelle, mais encore son adaptation tant à de hautes exigences scientifiques qu’au mode de la lecture debout.
+
